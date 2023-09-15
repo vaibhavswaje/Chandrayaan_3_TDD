@@ -62,3 +62,26 @@ Keep your code clean, readable, and modularized
 Do not throw exceptions/handle cases for invalid arguments
 </li>
 </ul>
+
+# How to run programme -
+
+
+Follow these steps to compile and run the C++ program:
+
+1. **Clone the Repository**: First, clone this GitHub repository to your local machine using the following command:
+
+   ```shell
+   git clone https://github.com/your-username/your-repo.git
+
+2. Navigate to the Project Directory: Change your current directory to the project folder:
+   ```shell
+    cd your-repo
+3. Compile the Code: Compile the C++ code using a C++ compiler (e.g., g++). Replace your-source-file.cpp with the actual name of your C++ source file:
+     ```shell
+    g++ -o my_program your-source-file.cpp
+4. Run the Program: Execute the compiled program:
+     ```shell
+    ./my_program
+
+
+
