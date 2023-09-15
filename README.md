@@ -3,7 +3,7 @@ Problem Statement Chandrayaan 3 Lunar Craft: Galactic Space Craft Control
 
 # Screenshots
 
-<img src="./Screenshots/output.png" alt=" giving input getting correct output" />
+<img src="./screenshot/output.png" alt=" giving input getting correct output" />
 
 # Problem Statement
 
